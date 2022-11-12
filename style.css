@@ -12,6 +12,11 @@ Casecading stylesheet start here
 }
 body {
   margin: 0 auto;
+  background-image: url('Screenshot_20220129-120408.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+  
 }
 
 .loader_bg {
